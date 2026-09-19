@@ -19,7 +19,7 @@
     "deploy:down": "docker compose --env-file deploy.env -f compose.production.yml down"
   },
   "dependencies": {
-    "adm-zip": "^0.6.0",
+    "adm-zip": "^0.6.1",
     "csv-parse": "^5.6.0",
     "csv-stringify": "^6.5.2",
     "leaflet": "^1.9.4",
